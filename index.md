@@ -132,3 +132,5 @@ accounting@sfconservancy.org
 <p>Help for K-3D is available through the forums or from the mailing list:</p>
 
 <p><a href="https://lists.sourceforge.net/lists/listinfo/k3d-development">https://lists.sourceforge.net/lists/listinfo/k3d-development</a></p>
+
+Or if you prefer, you can just submit an [issue](https://github.com/K-3D/k3d/issues).
