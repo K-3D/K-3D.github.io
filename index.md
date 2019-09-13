@@ -1,3 +1,8 @@
+# Download
+
+* [MacOS](http://sourceforge.net/projects/k3d/files/K-3D%20Mac%20OSX%20Binaries/K-3D%20testing/k3d-setup-eac49f4-x86_64.dmg/download)
+* [Windows](http://sourceforge.net/projects/k3d/files/K-3D%20Win32%20Binaries/K-3D%200.8.0.1/k3d-setup-0.8.0.1.exe/download)
+
 # About
 
 <p id="description">K-3D is free-as-in-freedom 3D modeling and animation software. It combines flexible plugins with a visualization pipeline architecture, making K-3D a versatile and powerful tool for artists.</p>
@@ -23,6 +28,10 @@
 <h2>Free</h2>
 
 <p>K-3D is Free Software. Run it on your choice of platform. Adapt it for any purpose. Receive it at no cost. Share it with your friends. All of the K-3D source code is available under the <a href="http://www.gnu.org/licenses/gpl-faq.html">GNU General Public License</a>.</p>
+
+# Documentation
+
+Documentation is available at the archived [wiki](http://wiki.k-3d.org).
 
 # Developing
 
