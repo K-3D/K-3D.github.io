@@ -2,6 +2,7 @@
 
 * [MacOS](http://sourceforge.net/projects/k3d/files/K-3D%20Mac%20OSX%20Binaries/K-3D%20testing/k3d-setup-eac49f4-x86_64.dmg/download)
 * [Windows](http://sourceforge.net/projects/k3d/files/K-3D%20Win32%20Binaries/K-3D%200.8.0.1/k3d-setup-0.8.0.1.exe/download)
+* [Source code](https://github.com/K-3D/k3d/releases)
 
 # About
 
